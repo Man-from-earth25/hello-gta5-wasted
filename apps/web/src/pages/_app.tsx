@@ -149,11 +149,16 @@ const App = ({ Component, pageProps }: AppPropsWithLayout) => {
     <ProductionErrorBoundary>
       <ShowMenu>
         <Layout>
-
-
-
+          <Script id="warning-banner">{`
+          
+          
+          let warningBanner = document.querySelector('");
 
           
+          
+          
+          `}</Script>
+
           <Component {...pageProps} />
         </Layout>
       </ShowMenu>
