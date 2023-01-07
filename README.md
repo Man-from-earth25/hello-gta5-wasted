@@ -3,7 +3,6 @@
 ![animated](https://user-images.githubusercontent.com/103621682/211145427-e6087434-d7ea-48b8-837b-0b610be67412.jpg)
 ![we-bare-bears-surfing-the-net-eh3w41yu8cqs0a44](https://user-images.githubusercontent.com/103621682/211145531-d814bab2-7c7f-46af-b9e6-9a590e38b5be.jpg)
 
-
 # Hello Frontend
 <p align="center">
   <a href="https://pancakeswap.finance">
@@ -96,5 +95,4 @@ yarn turbo run build --filter=aptos-web
 | [wagmi](/packages/wagmi)                                      | Extension for [wagmi](https://github.com/wagmi-dev/wagmi), including bsc chain and binance wallet connector            |
 | [awgmi](/packages/awgmi)                                      | connect to Aptos with similar wagmi React hooks.                                                                       |
 
-# This is ManFromEarth Signing or I say Hacking(Cool umm... name-of-new-login and singning systems or just name made by me ManFromEarth)
-
+# This is ManFromEarth Signing or I say Hacking(Cool umm... name-of-new-login and singning systems or just name made by me ManFromEarth)!!!
