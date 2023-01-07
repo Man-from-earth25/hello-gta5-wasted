@@ -1,4 +1,38 @@
-# 🥞 Pancake Frontend
+
+![hello-pretest-logo](https://user-images.githubusercontent.com/103621682/211144954-dbf5a447-eca8-43b5-8217-b0208c6fdbef.png)
+![wild-animals](https://user-images.githubusercontent.com/103621682/211144989-b4cb5839-af47-4573-a5ce-ab0b3a43a6d6.jpg)
+https://user-images.githubusercontent.com/103621682/211145085-3911d387-02fe-4695-9970-48bfeca35630.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Hello Frontend
 
 <p align="center">
   <a href="https://pancakeswap.finance">
