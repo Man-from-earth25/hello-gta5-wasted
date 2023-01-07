@@ -25,8 +25,9 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 ## `Hello`
 <details>
 <summary>
-How to Steall || LOL Just kidding!!! || Anything made by me like me yeah... yeah yeeah me ManFromEarth is public and free to use anywhere!!! || Just put (ManFromEarth => Pleaaases pretty pleasaase!!!) logo in that software or anything in exitence plus (any+every)thing in not exitstencev like doesnot exits like now But will exit... Later!!!
-</summary>
+How to Steall || LOL Just kidding!!! || Anything made by me in exitence plus (any+every)thing in not exitstencev like doesnot exits like now But will exit... Later!!! like me yeah... yeah yeeah me ManFromEarth is public and free to use anywhere!!! || Just put (ManFromEarth => Pleaaases pretty pleasaase!!!) logo in that software or anddd...  in exitence plus (any+every)thing in not exitstencev like doesnot exits like now But will exit... Later!!!!!!
+
+  Will update later(07/01/2023 --- 5:27 PM)!!!</summary>
 
 ```sh
 yarn
