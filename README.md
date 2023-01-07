@@ -24,6 +24,30 @@ If you want to contribute, please refer to the [contributing guidelines](./CONTR
 
 > Install dependencies using **yarn**
 
+## `Hello`
+<details>
+<summary>
+How to start
+</summary>
+
+```sh
+yarn
+```
+
+start the development server
+```sh
+yarn run dev
+```
+
+build with production mode
+```sh
+yarn turbo run build --filter=aptos-web
+
+# start the application after build
+yarn run start
+```
+</details>
+
 ## `apps/web`
 <details>
 <summary>
