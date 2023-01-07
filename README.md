@@ -42,7 +42,10 @@ build with production mode
 yarn turbo run build --filter=aptos-web
 
 # start the application after build
-yarn run start
+1. aptos/web/.next
+2. dist/web/.next
+3. apps/web/.next
+  
 ```
 </details>
 
