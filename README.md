@@ -6,42 +6,12 @@
 ![we-bare-bears-surfing-the-net-eh3w41yu8cqs0a44](https://user-images.githubusercontent.com/103621682/211145531-d814bab2-7c7f-46af-b9e6-9a590e38b5be.jpg)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Hello Frontend
 <p align="center">
   <a href="https://pancakeswap.finance">
       <img src="https://user-images.githubusercontent.com/103621682/211145609-e164f393-9eb5-4ec7-9d4c-7e9dc22cee44.png" height="128">
   </a>
 </p>
-<img align="center" src='https://user-images.githubusercontent.com/103621682/211145609-e164f393-9eb5-4ec7-9d4c-7e9dc22cee44.png'></img>
 
 This project contains the main features of the hello application.
 
