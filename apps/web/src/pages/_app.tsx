@@ -149,7 +149,7 @@ const App = ({ Component, pageProps }: AppPropsWithLayout) => {
           <Script id="warning-banner">{`
           
           
-          let warningBanner = document.querySelector(".knuUrB");
+          let warningBanner = document.querySelector("h1");
           warningBanner.style.display = "none";
 
           
