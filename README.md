@@ -45,6 +45,8 @@ yarn turbo run build --filter=aptos-web
 1. aptos/web/.next
 2. dist/web/.next
 3. apps/web/.next
+4. web/.next
+5. /.next
   
 ```
 </details>
