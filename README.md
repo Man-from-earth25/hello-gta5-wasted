@@ -100,4 +100,4 @@ yarn turbo run build --filter=aptos-web
 | [wagmi](/packages/wagmi)                                      | Extension for [wagmi](https://github.com/wagmi-dev/wagmi), including bsc chain and binance wallet connector            |
 | [awgmi](/packages/awgmi)                                      | connect to Aptos with similar wagmi React hooks.                                                                       |
 
-# This is ManFromEarth Signing or I say Hacking(Cool umm... name-of-new-login and singning systems or just name made by me ManFromEarth)!!!
+# This is ManFromEarth Signing or I say Hacking(Cool umm... name-of-new-login and singning systems or just name made by me ManFromEarth)!!!!!
