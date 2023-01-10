@@ -133,17 +133,6 @@ const App = ({ Component, pageProps }: AppPropsWithLayout) => {
     <ProductionErrorBoundary>
       <ShowMenu>
         <Layout>
-          <Script id="warning-banner">{`
-          
-          
-          let warningBanner = document.querySelector(".dTuncH");
-          warningBanner.style.display = "none !important";
-
-          
-          
-          
-          `}</Script>
-
           <Component {...pageProps} />
         </Layout>
       </ShowMenu>
